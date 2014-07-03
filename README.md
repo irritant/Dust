@@ -1,7 +1,8 @@
 Dust
 ====
 
-SuperCollider score for Dust by Tony Wallace.
+SuperCollider score for Dust by Tony Wallace.  
+[https://soundcloud.com/tonywallace/dust](https://soundcloud.com/tonywallace/dust)
 
 License
 =======
