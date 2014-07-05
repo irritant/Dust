@@ -2,8 +2,8 @@ Dust
 ====
 
 SuperCollider score for Dust and Dust - Variation by Tony Wallace.  
-Dust: [https://soundcloud.com/tonywallace/dust](https://soundcloud.com/tonywallace/dust)
-Dust - Variation: [https://soundcloud.com/tonywallace/dust-variation](https://soundcloud.com/tonywallace/dust-variation)
+_Dust_ [https://soundcloud.com/tonywallace/dust](https://soundcloud.com/tonywallace/dust)  
+_Dust - Variation_ [https://soundcloud.com/tonywallace/dust-variation](https://soundcloud.com/tonywallace/dust-variation)  
 
 License
 =======
